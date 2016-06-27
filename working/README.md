@@ -1,0 +1,1 @@
+This folder is for working results from notebooks. The readme is a place holder for folder commit in git.
