@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 working/*
 install/*
+archive/*
 *.html
 # C extensions
 *.so
@@ -89,3 +90,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+master.zip
